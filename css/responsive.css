@@ -1,0 +1,168 @@
+
+
+/* responsive */
+@media (max-width: 1550px) {
+    header.sofax-header-section {
+        top: 40px;
+    }
+    .sofax-hero-section{
+        margin: 30px 30px 0;
+    }
+    .sofax-cta-content h2{
+        font-size: 70px;
+    }
+}
+/* responsive */
+@media (max-width: 1399px) {
+    .sofax-cta-content h2{
+        font-size: 55px;
+        line-height: 50px;
+    }
+}
+@media (max-width: 1199px) {
+    header.sofax-header-section {
+        padding: 15px 60px;
+    }
+  .sofax-demo-btn .sofax-default-btn {
+    flex: 0 0 42%;
+  }
+  .sofax-demo-info ul li {
+    font-size: 24px;
+    padding: 0 10px;
+}
+
+.sofax-inner-section {
+    height: 700px;
+}
+.sofax-cta-content h2{
+    font-size: 45px;
+    line-height: 42px;
+}
+  
+}
+@media (max-width: 991px) {
+    header.sofax-header-section {
+        width: 100%;
+        left: 0;
+        top: 0;
+        padding: 15px;
+    }
+  .sofax-menu {
+      margin-top: 30px;
+  }
+
+.sofax-hero-content{
+    margin-bottom: 40px;
+}
+.hero-thumb{
+    margin-top: 60px;
+}
+.sofax-section-title{
+    padding-bottom: 60px;
+    text-align: center;
+}
+.sofax-demo-info{
+margin-bottom: 45px;
+}
+.sofax-section-padding {
+    padding: 100px 0;
+}
+.sofax-demos-section {
+    padding: 100px 0 50px;
+}
+.sofax-section-padding3 {
+    padding: 100px 0 76px;
+}
+.sofax-section-padding4 {
+    padding: 100px 0 0;
+}
+.sofax-section-padding2{
+    padding: 0 0 100px;
+}
+.sofax-main-inner{
+    padding-top: 100px;
+}
+.sofax-inner-section {
+    height: 600px;
+}
+.sofax-inner-content {
+    max-width: 680px;
+}
+
+.sofax_screenfix_right {
+    margin-right: auto;
+    max-width: 100%;
+}
+.sofax-cta-wrap {
+    display: block;
+}
+.sofax-demos-thumb{
+    display: none;
+}
+.sofax-cta-content {
+    text-align: center;
+    padding: 100px 20px;
+}
+.sofax-cta-info ul li{
+    justify-content: center
+}
+  
+}
+
+@media (max-width: 767px) {
+    .hero-thumb{
+        margin-top: 40px;
+    }
+    .sofax-hero-shape{
+        display: none;
+    }
+    .sofax-section-padding {
+        padding: 80px 0;
+    }
+    .sofax-demos-section {
+        padding: 80px 0 30px;
+    }
+    .sofax-section-padding3 {
+        padding: 80px 0 56px;
+    }
+    .sofax-section-padding4 {
+        padding: 80px 0 0;
+    }
+    .sofax-section-padding2{
+        padding: 0 0 80px;
+    }
+    .sofax-demo-info{
+        margin-bottom: 25px;
+    }
+    .sofax-inner-section {
+        height: 500px;
+    }
+    .sofax-two-column-btn {
+        margin-top: 35px;
+    }
+    .sofax-cta-content {
+        padding: 80px 0;
+    }
+    .sofax-main-inner{
+        padding-top: 80px;
+    }
+}
+
+@media (max-width: 575px) {
+.w_50{
+  width: 50%;
+}
+header.sofax-header-section {
+    padding: 15px;
+}
+.sofax-header-btn {
+  padding: 8px 15px;
+}
+.sofax-demo-btn .sofax-default-btn {
+    flex: 0 0 70%;
+}
+.sofax-inner-section {
+    height: 600px;
+}
+
+}
